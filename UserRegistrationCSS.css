@@ -1,0 +1,39 @@
+body{
+    width:30%;
+    text-align: center;
+    margin:0 auto;
+    
+}
+#registerId,#loginId{
+    margin:50px auto;
+    padding:50px;
+    border:2px solid rosybrown;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rosybrown;
+    background-color: burlywood;
+    position:relative;
+    justify-content: center;
+}
+
+button {
+    background-color: crimson; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    font-size: 16px;
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: rgb(246, 108, 108); 
+}
+
+button:active {
+    background-color: rgb(178, 63, 63) ; 
+    
+}
+#error{
+color:red;
+font-size: large;
+}
