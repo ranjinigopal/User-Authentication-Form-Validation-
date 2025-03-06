@@ -7,7 +7,7 @@
 **Project Overview**
 This project is a **User Registration and Login System** built with **HTML, CSS, and JavaScript**.
 It provides a simple way for users to register an account and log in.
-Cab be used for User Authentication or Form Validation.
+Can be used for User Authentication or Form Validation.
 
 
 **Features**
